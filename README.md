@@ -11,8 +11,9 @@ I'm Ednilson Bambo, a student at Brigham Young University-Idaho interested in we
 
 ## Favorite Projects
 
+- [Personal Task Manager](https://to-do-list-manager-nu.vercel.app/): As a huge fan of productivity apps, I decided to create one that allows me to organize and manage my personal tasks in a way similar to how we manage team work on trello. I love the satisfaction I get from dragging my tasks from to-do, to doing, and then done. 
+- [Shot Analysis](https://github.com/Yobamba/shooting-analysis): I enjoyed this one because I got to leverage python's data analysis support to study and learn about shooting tendencies from NBA players and derive interesting insights from the study.
 - [Django Portfolio](https://github.com/Yobamba/portfolio): I loved this one because I got to learn the django framework while simultaneously building a portfolio for myself.
-- [Shot Analysis](https://github.com/Yobamba/shooting-analysis): I enjoyed this one because I got to leverage python's data analysis support to study and learn about shooting tendencies from NBA players and derive interesting insights from the study. 
 
 ## Technologies and Tools
 
