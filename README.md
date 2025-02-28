@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm Ednilson Bambo, a student at Brigham Young University-Idaho interested in web development. Welcome to my GitHub profile!
+I'm Ednilson Bambo, a web developer interested in building beautiful and useful web apps. Welcome to my GitHub profile!
 
 ## About Me
 
